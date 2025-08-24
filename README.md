@@ -5,10 +5,6 @@
 
 <!-- badges: start -->
 
-[![CRAN
-version](https://img.shields.io/badge/dynamic/json?style=for-the-badge&color=success&label=CRAN%20version&prefix=v&query=%24.Version&url=https%3A%2F%2Fcrandb.r-pkg.org%2FcfbfastR)](https://CRAN.R-project.org/package=cfbfastR)
-[![CRAN
-downloads](https://img.shields.io/badge/dynamic/json?style=for-the-badge&color=success&label=Downloads&query=%24%5B0%5D.downloads&url=https%3A%2F%2Fcranlogs.r-pkg.org%2Fdownloads%2Ftotal%2F2021-10-26%3Alast-day%2FcfbfastR)](https://CRAN.R-project.org/package=cfbfastR)
 [![Version-Number](https://img.shields.io/github/r-package/v/sportsdataverse/cfbfastR?label=cfbfastR&logo=R&style=for-the-badge)](https://github.com/sportsdataverse/cfbfastR/)
 [![R-CMD-check](https://img.shields.io/github/actions/workflow/status/sportsdataverse/cfbfastR/R-CMD-check.yaml?branch=main&label=R-CMD-Check&logo=R&logoColor=white&style=for-the-badge)](https://github.com/sportsdataverse/cfbfastR/actions/workflows/R-CMD-check.yaml)
 [![Lifecycle:maturing](https://img.shields.io/badge/lifecycle-maturing-blue.svg?style=for-the-badge&logo=github)](https://github.com/sportsdataverse/cfbfastR/)
@@ -27,13 +23,6 @@ data aggregation and tidying ease, one of the multitude of services that
 benchmarking open-source expected points and win probability metrics.
 
 ## **Installation**
-
-You can install the CRAN version of
-[**`cfbfastR`**](https://CRAN.R-project.org/package=cfbfastR) with:
-
-``` r
-install.packages("cfbfastR")
-```
 
 You can install the released version of
 [**`cfbfastR`**](https://github.com/sportsdataverse/cfbfastR/) from
